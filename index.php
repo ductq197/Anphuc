@@ -356,6 +356,7 @@
 			</div>
 		</div>
 	</section>
+	<section class="test"></section>
 </div><!--end-main-content-->
 
 <?php include "footer.php"; ?>
